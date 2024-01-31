@@ -1,0 +1,18 @@
+ A          {color: #FFFFFF; text-decoration: none;}
+ A:hover    {
+	color: #FFCC00;
+	text-decoration: none;
+}
+.titlenav   {position: absolute; width: 150px; height: 20px; left: 3px; z-index: 10; font-family: verdana, helvetica, sans-serif; font-size: 10px;}
+.submenu    {position: absolute; left: 15px; width: 140px; font-family: verdana, helvetica, sans-serif; font-size: 10px; visibility: hidden;}
+.title      {  font: italic bold 14pt Verdana, Arial, Helvetica, sans-serif; color: #0033cc}
+.textnormal {  font: 12px Arial, Helvetica, sans-serif; color: #0033cc}
+.textbold   {  font: bold 12px Arial, Helvetica, sans-serif; color: #0033cc}
+.textbold1  {  font: bold 13pt Arial, Helvetica, sans-serif; color: #0033cc}
+.textbold2  {  font: italic bold 14pt Arial, Helvetica, sans-serif; color: #0033cc}.textlink {  font: 12px Arial, Helvetica, sans-serif; color: #993300; text-decoration: none}
+.textitalic { font: italic 12px Arial, Helvetica, sans-serif; color: #0033cc }
+.textlittle { font: 10px Arial, Helvetica, sans-serif; color: #0033cc }
+.textboldwhite { font: bold 12px Arial, Helvetica, sans-serif; color: #FFFFFF}
+.normal-retrait {  text-indent: -50pt; clip:   rect(   )}
+.Ident { clip: rect( ); margin-left: 30px }
+.Expo {  clip:   rect(10px   )}
